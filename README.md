@@ -1,3 +1,11 @@
+# Important:
+I didn't fork this repo to continue working on Wine-GE i simply wanted to share a custom build with minimal changes. The only purpose of this build is to provide the latest(on the moment i write this) Bleeding Edge Mono, Gecko, and default prefix settings from Proton. There's no rebase or major modifications. Thats all.
+
+In my view, Proton + UMU represents the future of Linux gaming. This build exists solely to ensure compatibility with launchers that don't yet support UMU well.
+
+This will be just one release.
+
+# GloriousEggroll Readme:
 # wine-ge-custom
 
 This is my build of WINE based on/forked from the most recent bleeding-edge proton experimental wine repo. This is meant to be used with non-steam games outside of Steam.
