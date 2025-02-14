@@ -3,7 +3,7 @@ I didn't fork this repo to continue working on Wine-GE i simply wanted to share 
 
 In my view, Proton + UMU represents the future of Linux gaming. This build exists solely to ensure compatibility with launchers that don't yet support UMU well.
 
-This will be just one release.
+This will be just one release. And created as a petition from one of my friends.
 
 # GloriousEggroll Readme:
 # wine-ge-custom
